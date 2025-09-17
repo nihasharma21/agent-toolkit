@@ -1,0 +1,4 @@
+# put this code in
+.env
+__pycache__/
+*.pyc
